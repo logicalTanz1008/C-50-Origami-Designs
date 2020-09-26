@@ -1,0 +1,42 @@
+h1{
+    color: rgb(230, 225, 225);
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 42px;
+
+}
+
+.header{
+    background-color: rgb(16, 16, 100);
+}
+
+.menu{
+    background-color: rgb(113, 255, 201);
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    align-self: center;
+}
+
+.gridbw{
+    display: flex;
+    text-align: left;
+    align-self: flex-start;
+}
+
+.hr1{
+    border: 1px solid rgb(30, 117, 106);
+}
+
+a{
+    font-size: 20px;
+    font-family: monospace;
+}
+
+p{
+    font-family: sans-serif;
+}
+
